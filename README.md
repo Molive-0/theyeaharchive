@@ -15,3 +15,6 @@ Please add images in the same way as you see other images being added so far: cr
 
 ## What kind of things should be added?
 Anything! Go wild. Submissions should be a remix of the miiverse button, by itself, in the highest quality possible. Do not add images that are deliberately low quality and full of JPEG artifacts, they can be added later to the high quality images if needed. NSFW entries are not allowed. Even if you think that the button you have is not consequential, please add it.
+
+## What next?
+The next step is to make a frontend website for this repo so that people can scroll the images themselves, easily. I've tried to set it up so that as people add images here they are in a format which a website can read easily for later. This was released publicly at 2am BST because I felt that the longer I wait the more likely that the images are lost.
