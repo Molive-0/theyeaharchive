@@ -1,0 +1,36 @@
+<?xml-model href="../../description.xsd"?>
+<!-- The model path above is set such that when this template is in position it links correctly -->
+<button>
+    <name>
+        Enter the name of the button here.
+    </name>
+    <images>
+        <!-- For each image, make a image block. You can have only one image if needed. -->
+        <image>
+            <name>
+                Enter the *filename* of the image here.
+            </name>
+            <description>
+                Enter a description of the image, as if you are making alt text. Without seeing
+                the image, people should know exactly what the button looks like.
+            </description>
+        </image>
+        <image>
+            <name>
+                If there are multiple images accociated with this button, add them too.
+            </name>
+            <description>
+                etc...
+            </description>
+        </image>
+    </images>
+    <background>
+        Essentially, explain the joke. Why does this button exist? What do people need to know to
+        understand the meaning behind this button. Go into detail.
+    </background>
+    <seealso>
+        <!-- a list of links that are relevant to the button -->
+        <a href="example.com">Example site</a>
+        <a href="example.org">Example site</a>
+    </seealso>
+</button>

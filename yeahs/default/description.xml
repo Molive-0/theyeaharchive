@@ -1,0 +1,72 @@
+<?xml-model href="../../description.xsd"?>
+<button>
+    <name>
+        Miiverse Yeah
+    </name>
+    <images>
+        <!-- For each image, make a image block. You can have only one image if needed.-->
+        <image>
+            <name>
+                yeah-happy.png
+            </name>
+            <description>
+                Button with a simplistic bust of a green character to the left, who is similing.
+                There is a green plus (+) symbol next to them. To the right, in black text, "Yeah!"
+                is written.
+            </description>
+        </image>
+        <image>
+            <name>
+                yeah-happy-hq.png
+            </name>
+            <description>
+                Button with a simplistic bust of a green character to the left, who is similing.
+                There is a green plus (+) symbol next to them. To the right, in black text, "Yeah!"
+                is written.
+            </description>
+        </image>
+        <image>
+            <name>
+                yeah-sad.png
+            </name>
+            <description>
+                Button with a simplistic bust of a green character to the left, who is similing.
+                There is a green plus (+) symbol next to them. To the right, in black text,
+                "Yeah..." is written.
+            </description>
+        </image>
+        <image>
+            <name>
+                yeah-shocked.png
+            </name>
+            <description>
+                Button with a simplistic bust of a green character to the left, who is similing.
+                There is a green plus (+) symbol next to them. To the right, in black text, "Yeah!?"
+                is written.
+            </description>
+        </image>
+        <image>
+            <name>
+                yeah-flirt.png
+            </name>
+            <description>
+                Button with a simplistic bust of a green character to the left, who is similing.
+                There is a green plus (+) symbol next to them. To the right, in black text, "Yeah♥︎"
+                is written.
+            </description>
+        </image>
+    </images>
+    <background>
+        Miiverse was a social network for the Nintendo 3DS and WiiU that was run by Nintendo - it
+        closed down in 2017. In Miiverse you could like posts using the "Yeah!" button, which came
+        in four styles based on the mood of your account at the time.
+        Also included is a high quality recreation of the Miiverse Yeah button, seen often on X
+        (formerly Twitter)
+    </background>
+    <seealso>
+        <!-- a list of links that are relevant to the button -->
+        <a href="https://knowyourmeme.com/memes/miiverse-yeah">Miiverse Yeah! on Know Your Meme</a>
+        <a href="https://miiversepedia.fandom.com/wiki/Yeah">Miiverse Fandom</a>
+        <a href="https://en.wikipedia.org/wiki/Miiverse">Miiverse on Wikipedia</a>
+    </seealso>
+</button>

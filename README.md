@@ -11,7 +11,7 @@ This is happening really quickly, right now - and I'm worried that this will be 
 
 ## How can I help?
 If you find a "Yeah!" button that is not here yet, create a pull request to add it in. If you are unsure on how to make pull requests, don't worry: send it to this gmail account and I will try and add it personally: "theyeaharchive@...". By submitting the image in either way you agree to licence the image under the same license as the whole repository: [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-Please add images in the same way as you see other images being added so far.
+Please add images in the same way as you see other images being added so far: create a folder with an appropriate name, place the images inside, and then fill out "description.xml! and place that in there too. There is a description.xml.template for you to use.
 
 ## What kind of things should be added?
-Anything! Go wild. Submissions should be a remix of the miiverse button, by itself, in the highest quality possible. NSFW entries are not allowed. Even if you think that the button you have is not consequential, please add it.
+Anything! Go wild. Submissions should be a remix of the miiverse button, by itself, in the highest quality possible. Do not add images that are deliberately low quality and full of JPEG artifacts, they can be added later to the high quality images if needed. NSFW entries are not allowed. Even if you think that the button you have is not consequential, please add it.
